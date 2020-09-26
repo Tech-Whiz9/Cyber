@@ -71,37 +71,26 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    identifier = "New Posts"
+    name = "New Posts"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    parent = "New Posts"
+    name = "Servers"
+    url = "post/servers"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    parent = "New Posts"
+    name = "Coding With VS Code"
+    url = "post/2015-01-27-Coding with VS Code"
     weight = 2
 
 [[menu.main]]
     parent = "samples"
     name = "Code Sample"
     url = "post/2016-03-08-code-sample"
-    weight = 3
-
-
-[[menu.main]]
-    name = "Sign In"
-    url = "/page/Sign In"
-    weight = 3
-
-[[menu.main]]
-    name = "Sign Up"
-    url = "/page/Sign Up"
     weight = 3
 
 [[menu.main]]

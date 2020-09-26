@@ -84,14 +84,10 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "New Posts"
     name = "Coding With VS Code"
-    url = "post/2015-01-27-Coding with VS Code"
+    url = "post/2015-01-27-coding-with-vs-code"
     weight = 2
 
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
+
 
 [[menu.main]]
     name = "Hashtags"
